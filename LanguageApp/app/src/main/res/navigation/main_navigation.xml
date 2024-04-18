@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/splash">
+
+
+    <fragment
+        android:id="@+id/splash"
+        android:name="com.example.mad.ui.Splash"
+        tools:layout="@layout/fragment_splash">
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/onboarding"
+        android:name="com.example.mad.onBoarding.OnBoardingFragment"
+        tools:layout="@layout/onboarding">
+
+        <deepLink app:uri="android-app://app/onboarding" />
+
+    </fragment>
+    <fragment
+        android:id="@+id/choise_language"
+        android:name="com.example.mad.language.LanguageFragment"
+        tools:layout="@layout/language_choice_fragment">
+
+        <deepLink app:uri="android-app://app/language" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/login"
+        android:name="com.example.mad.login.SignInFragment"
+        tools:layout="@layout/login_fragment">
+
+        <deepLink app:uri="android-app://app/login" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/signup"
+        android:name="com.example.mad.signUp.SignUpFragment"
+        tools:layout="@layout/signup_fragment">
+
+        <deepLink app:uri="android-app://app/signup" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/signupPass"
+        android:name="com.example.mad.signUp.SignUpTwoFragment"
+        tools:layout="@layout/signup_two_fragment">
+
+        <deepLink app:uri="android-app://app/signupPass" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/main"
+        android:name="com.example.mad.main.MainFragment"
+        tools:layout="@layout/main_fragment">
+
+        <deepLink app:uri="android-app://app/main" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/profile"
+        android:name="com.example.mad.main.ProfileFragment"
+        tools:layout="@layout/profile_fragment">
+
+        <deepLink app:uri="android-app://app/profile" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/gameOne"
+        android:name="com.example.mad.games.GameOneFragment"
+        tools:layout="@layout/game_one_fragment">
+
+        <deepLink app:uri="android-app://app/gameone" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/gameTwo"
+        android:name="com.example.mad.games.GameTwoFragment"
+        tools:layout="@layout/game_two_fragment">
+
+        <deepLink app:uri="android-app://app/gametwo" />
+
+    </fragment>
+    <fragment
+        android:id="@+id/gameThree"
+        android:name="com.example.mad.games.GameThreeFragment"
+        tools:layout="@layout/game_three_fragment">
+
+        <deepLink app:uri="android-app://app/gamethree" />
+
+    </fragment>
+
+
+</navigation>

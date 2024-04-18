@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">MAD</string>
+
+
+    <string name="onboarding_slide1_title">Confidence in your words</string>
+    <string name="onboarding_slide1_desc">With conversation-based learning,
+        you\'ll be talking from lesson one</string>
+
+    <string name="onboarding_slide2_title">Take your time to learn</string>
+    <string name="onboarding_slide2_desc">Develop a habit of learning and
+        make it a part of your daily routine</string>
+
+    <string name="onboarding_slide3_title">The lessons you need to learn</string>
+    <string name="onboarding_slide3_desc">Using a variety of learning styles to learn
+        and retain</string>
+
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="get_started">Get started</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login">Login</string>
+    <string name="new_user">New User?</string>
+    <string name="invalid_username">Invalid username</string>
+    <string name="invalid_password">Invalid password</string>
+
+    <string name="home_screen_title">Home</string>
+    <string name="home_screen_text">Can\'t walk? then fly!</string>
+    <string name="previous">previous</string>
+    <string name="russian">Russian</string>
+    <string name="english">English</string>
+    <string name="choose">Choose</string>
+    <string name="what_is_your_mother_language">What is your Mother language?</string>
+    <string name="language_select">Language select</string>
+    <string name="signup">Signup</string>
+    <string name="for_free_join_now_and_n_start_learning">For free, join now and\n start learning</string>
+    <string name="email_address">Email Address</string>
+    <string name="email">Email</string>
+    <string name="not_you_member">Not you member?</string>
+    <string name="use_can_use">Use can use</string>
+    <string name="google_for"> Google for </string>
+    <string name="sign_in_small">sign in</string>
+    <string name="sign_in">Sign In</string>
+    <string name="signup_small"> Signup</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="first_name">First Name</string>
+    <string name="your_first_name">Your First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="your_last_name">Your Last Name</string>
+    <string name="continue_">Continue</string>
+    <string name="already_you_member">Already you member?</string>
+    <string name="choose_a_password">Choose a Password</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <string name="your_profile">Your profile,</string>
+    <string name="change_mother_language">Change mother language</string>
+    <string name="switch_theme">Switch theme</string>
+    <string name="change_your_image">Change your image</string>
+    <string name="logout">Logout</string>
+    <string name="hello">Hello,</string>
+    <string name="are_you_ready_for_learning_today">Are you ready for learning today?</string>
+    <string name="top_users">Top users</string>
+    <string name="available_excersises">Available excersises</string>
+    <string name="guess_the_animal">Guess the animal</string>
+    <string name="word_practice">Word practice</string>
+    <string name="audition">Audition</string>
+    <string name="game">Game</string>
+    <string name="write_who_is_on_image">Write who is on image</string>
+    <string name="check">Check</string>
+    <string name="holy_molly_that_is_right">Holy Molly! That is Right!</string>
+    <string name="try_again">Try again</string>
+    <string name="eh_wrong_answer">Eh? Wrong answer :(</string>
+    <string name="that_is">that is</string>
+    <string name="listening">Listening</string>
+    <string name="please_press_button_and_say_this_n_word_our_service_will_check_n_your_pronunciation">Please press button and say this \n word. Our service will check\n your pronunciation</string>
+    <string name="your_result">Your result</string>
+    <string name="check_my_speech">Check my speech</string>
+    <string name="yay_go_next">Yay! Go next</string>
+
+</resources>
